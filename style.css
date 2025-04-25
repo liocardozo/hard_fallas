@@ -1,0 +1,10 @@
+.fallas {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+    background-color: rgb(194, 212, 226);
+    padding: 20px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+
